@@ -281,7 +281,7 @@ img {
       border-bottom: 3px #a93f55 solid; }
 
 #header-home {
-  background: url("/dist/img/showcase.jpg") no-repeat center right/cover;
+  background: url("/img/showcase.jpg") no-repeat center right/cover;
   height: 100vh;
   position: relative; }
   #header-home .header-content {
@@ -296,7 +296,7 @@ img {
       color: #f3f7f0; }
 
 #header-inner {
-  background: url("/dist/img/showcase.jpg") no-repeat 20% 30%/cover;
+  background: url("/img/showcase.jpg") no-repeat 20% 30%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #dc4849; }
 
@@ -527,7 +527,7 @@ img {
       display: block; }
   #header-inner {
     height: 10rem;
-    background: url("/dist/img/showcase.jpg");
+    background: url("/img/showcase.jpg");
     background-size: inherit; } }
 
 #about-a .about-info {
